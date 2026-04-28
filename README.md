@@ -73,7 +73,7 @@
      
 ### **📁 증빙 자료:**
   * https://docs.google.com/document/d/1GmiKVOFpgq70T2CONdYEoiWQIYGIbdLjVG9AdpeUT68/edit?usp=sharing
-  * [2차과제_실행결과.jpg]
+  * [2차과제_실행결과.jpg] https://docs.google.com/document/d/1XLfD4o4jNmKHQaB8H57tfV2M5vZm5-U0j3Y3VLCZP-Y/edit?usp=sharing
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
